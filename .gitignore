@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+rsa_key.p8
+rsa_key.pub
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
